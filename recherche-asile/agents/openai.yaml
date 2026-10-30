@@ -1,0 +1,14 @@
+interface:
+  display_name: Recherche juridique - CFA
+  short_description: Instructions on how to perform legal or geopolitical research
+    and respond to legal or geopolitical or broadly asylum-related questions. Always
+    consult this before responding!
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
